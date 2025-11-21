@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "193ef922-09a7-4c1e-b748-c311af46237b")
+	(uuid "8d2afd61-2389-4eb0-9a12-896e6af58844")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -1390,7 +1390,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 148.59 89.408 90)
 			(effects
 				(font
@@ -1756,7 +1756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 153.3652 76.2 0)
 			(effects
 				(font
@@ -1957,7 +1957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 92.4052 97.79 0)
 			(effects
 				(font

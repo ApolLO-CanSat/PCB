@@ -9028,7 +9028,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 115.2652 38.1 0)
 			(effects
 				(font
@@ -9097,7 +9097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 88.9 169.418 90)
 			(effects
 				(font
@@ -9232,7 +9232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 80.01 108.458 90)
 			(effects
 				(font
@@ -9301,7 +9301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 61.722 157.48 90)
 			(effects
 				(font
@@ -9632,7 +9632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 171.1452 66.04 0)
 			(effects
 				(font
@@ -9701,7 +9701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 57.15 180.848 90)
 			(effects
 				(font
@@ -10109,7 +10109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 178.7652 156.21 0)
 			(effects
 				(font
@@ -10376,7 +10376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 95.25 28.956 90)
 			(effects
 				(font
@@ -10599,7 +10599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:PUIAudio_SMT_0825_S_4_R"
 			(at 268.605 38.1 90)
 			(effects
 				(font
@@ -10666,7 +10666,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 44.45 162.56 0)
 			(effects
 				(font
@@ -10741,7 +10741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 85.598 132.08 90)
 			(effects
 				(font
@@ -10809,7 +10809,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_124019772112A"
 			(at 40.64 58.42 0)
 			(effects
 				(font
@@ -11210,7 +11210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 62.23 106.68 0)
 			(effects
 				(font
@@ -11288,7 +11288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 156.21 34.036 90)
 			(effects
 				(font
@@ -11423,7 +11423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 72.39 160.782 90)
 			(effects
 				(font
@@ -11492,7 +11492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 141.9352 185.42 0)
 			(effects
 				(font
@@ -11625,7 +11625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 161.29 100.838 90)
 			(effects
 				(font
@@ -11964,7 +11964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 73.152 45.72 90)
 			(effects
 				(font
@@ -12033,7 +12033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 276.86 93.0148 0)
 			(effects
 				(font
@@ -12443,7 +12443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 186.3852 156.21 0)
 			(effects
 				(font
@@ -12512,7 +12512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 168.6052 38.1 0)
 			(effects
 				(font
@@ -12647,7 +12647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 84.328 154.94 90)
 			(effects
 				(font
@@ -12716,7 +12716,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 20.0152 137.16 0)
 			(effects
 				(font
@@ -12785,7 +12785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 251.1552 66.04 0)
 			(effects
 				(font
@@ -12918,7 +12918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 44.45 173.99 0)
 			(effects
 				(font
@@ -13393,7 +13393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 209.2452 43.18 0)
 			(effects
 				(font
@@ -13529,7 +13529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 188.9252 38.1 0)
 			(effects
 				(font
@@ -13664,7 +13664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 276.86 98.0948 0)
 			(effects
 				(font
@@ -13799,7 +13799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 82.042 45.72 90)
 			(effects
 				(font
@@ -14142,7 +14142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
 			(at 136.8552 38.1 0)
 			(effects
 				(font
