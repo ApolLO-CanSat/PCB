@@ -4961,6 +4961,16 @@
 		)
 		(uuid "8c68f227-feb8-4aed-8099-7de5611b1f69")
 	)
+	(text "LoRa Module\n"
+		(exclude_from_sim no)
+		(at 249.936 141.478 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8edb69fe-1370-4714-8b47-20b84e91c377")
+	)
 	(text "Power source 3V3\n"
 		(exclude_from_sim no)
 		(at 124.714 15.748 0)
@@ -5270,10 +5280,6 @@
 		(uuid "fd606308-4d5a-48e8-884e-22a958d71ef3")
 	)
 	(no_connect
-		(at 106.68 121.92)
-		(uuid "03add3d5-7805-4bd0-9e38-99874d621430")
-	)
-	(no_connect
 		(at 58.42 91.44)
 		(uuid "0f5db7af-d384-48ef-99ed-01696d271e35")
 	)
@@ -5284,6 +5290,10 @@
 	(no_connect
 		(at 82.55 190.5)
 		(uuid "199ce1c6-a9ae-4269-bbca-731a56f8b55f")
+	)
+	(no_connect
+		(at 163.83 88.9)
+		(uuid "1b91ca8f-3f9d-4e52-8ac0-f2dfdf27d644")
 	)
 	(no_connect
 		(at 163.83 124.46)
@@ -5322,8 +5332,8 @@
 		(uuid "606ae534-23ab-4f4b-b824-8713e3ae6c9d")
 	)
 	(no_connect
-		(at 163.83 111.76)
-		(uuid "6b5f16c2-b1b4-4488-a4b0-6b6d4fb5a6b0")
+		(at 163.83 66.04)
+		(uuid "689bfc52-338e-4068-8fb0-2423a258ee56")
 	)
 	(no_connect
 		(at 58.42 66.04)
@@ -5334,16 +5344,12 @@
 		(uuid "74a28ee7-d4d5-4335-b4f9-562e1f4ef1c0")
 	)
 	(no_connect
-		(at 163.83 99.06)
-		(uuid "79bb21f8-3a0f-49a3-8ece-be40fc617d7f")
-	)
-	(no_connect
-		(at 163.83 109.22)
-		(uuid "807c9b6c-5ab2-4ef1-b89d-1e74b1e98ab6")
-	)
-	(no_connect
 		(at 58.42 76.2)
 		(uuid "88beda31-2b65-42d7-a4ca-431afbce01a6")
+	)
+	(no_connect
+		(at 163.83 68.58)
+		(uuid "8d845d19-d60f-41b6-99c9-84c2603345ec")
 	)
 	(no_connect
 		(at 163.83 127)
@@ -5358,12 +5364,8 @@
 		(uuid "9650740f-9954-4c34-920f-beade36968cc")
 	)
 	(no_connect
-		(at 163.83 114.3)
-		(uuid "9af4f730-a06b-4a4b-9cb8-90b96f5ea93a")
-	)
-	(no_connect
-		(at 163.83 106.68)
-		(uuid "9f7a1a12-1062-443e-86a9-f0459a7bdea3")
+		(at 163.83 83.82)
+		(uuid "bbe3d901-cb84-403a-81ae-60150cae67e2")
 	)
 	(no_connect
 		(at 193.04 73.66)
@@ -5537,6 +5539,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 157.48) (xy 274.32 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d6f4f9c-cad6-48f2-85a7-7a3d2991632e")
+	)
+	(wire
+		(pts
 			(xy 219.71 39.37) (xy 228.6 39.37)
 		)
 		(stroke
@@ -5574,6 +5586,16 @@
 			(type default)
 		)
 		(uuid "10db5cdf-7793-4b9f-80d9-8bed6ea5eaa2")
+	)
+	(wire
+		(pts
+			(xy 215.9 156.21) (xy 234.95 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1174a6b6-ef6d-41c6-ad0b-c2041e8697cf")
 	)
 	(wire
 		(pts
@@ -5754,6 +5776,16 @@
 			(type default)
 		)
 		(uuid "28c7f5e4-cee5-4730-b93a-b83a3a95f68a")
+	)
+	(wire
+		(pts
+			(xy 215.9 153.67) (xy 234.95 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29e072a6-2765-4521-bb25-3ec33c259d03")
 	)
 	(wire
 		(pts
@@ -6577,6 +6609,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 152.4) (xy 274.32 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83e81899-7c12-4bbb-b823-6615da22d82c")
+	)
+	(wire
+		(pts
 			(xy 170.18 175.26) (xy 170.18 176.53)
 		)
 		(stroke
@@ -6877,7 +6919,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 121.92) (xy 106.68 121.92)
+			(xy 116.84 121.92) (xy 102.87 121.92)
 		)
 		(stroke
 			(width 0)
@@ -7077,6 +7119,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 149.86) (xy 274.32 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad224e3c-aac4-49e9-961a-3b3d2695eb26")
+	)
+	(wire
+		(pts
 			(xy 217.17 31.75) (xy 217.17 33.02)
 		)
 		(stroke
@@ -7234,6 +7286,16 @@
 			(type default)
 		)
 		(uuid "bab73125-a6af-4aa8-b61b-cf5f81598157")
+	)
+	(wire
+		(pts
+			(xy 264.16 154.94) (xy 274.32 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "babfc2b4-14a1-417e-9110-4cf48ea6c460")
 	)
 	(wire
 		(pts
@@ -7547,6 +7609,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 151.13) (xy 234.95 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb9c8f9-7e79-44d9-bfd7-45ddd47ca250")
+	)
+	(wire
+		(pts
 			(xy 83.82 52.07) (xy 80.01 52.07)
 		)
 		(stroke
@@ -7567,7 +7639,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 99.06) (xy 163.83 99.06)
+			(xy 153.67 99.06) (xy 157.48 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7634,6 +7706,16 @@
 			(type default)
 		)
 		(uuid "e48490b1-be9a-47c6-858c-cbfc2bb11712")
+	)
+	(wire
+		(pts
+			(xy 165.1 99.06) (xy 186.69 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e78e1af6-7992-460e-af65-160306dd9b8d")
 	)
 	(wire
 		(pts
@@ -7955,6 +8037,16 @@
 		)
 		(uuid "10128d50-e719-4cd6-84ea-a77d22641ee0")
 	)
+	(label "RADIO_RX_INT"
+		(at 215.9 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b574b05-1bb2-45c3-ab42-34cd49a328b0")
+	)
 	(label "I2C0_SDA"
 		(at 163.83 76.2 180)
 		(effects
@@ -8015,6 +8107,16 @@
 		)
 		(uuid "32d93c26-9672-44d7-bfde-6936c3fc4c9c")
 	)
+	(label "SPI0_RX"
+		(at 274.32 152.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3383cd63-3e34-463d-af37-82cc3b8cdac4")
+	)
 	(label "USER_SW"
 		(at 106.68 129.54 0)
 		(effects
@@ -8034,6 +8136,16 @@
 			(justify left bottom)
 		)
 		(uuid "47aaf917-17f0-4b07-8b3a-5d8726f19569")
+	)
+	(label "RADIO_RX_INT"
+		(at 102.87 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "498f0edf-bb5c-452c-9a8c-670dc5706b03")
 	)
 	(label "USB_D-"
 		(at 101.6 77.47 0)
@@ -8135,6 +8247,16 @@
 		)
 		(uuid "67251451-2885-4bdd-853b-1465e0bed69d")
 	)
+	(label "RADIO_RX_TIMEOUT"
+		(at 215.9 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6755048a-3f09-42b4-ab8f-dc00ee814475")
+	)
 	(label "QSPI_SCLK"
 		(at 82.55 182.88 0)
 		(effects
@@ -8195,6 +8317,16 @@
 		)
 		(uuid "8e59c3ae-01ee-437e-9283-2f302379df47")
 	)
+	(label "RADIO_RX_TIMEOUT"
+		(at 186.69 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8ec37d77-1fbd-47ba-ad28-3a43db5dce3a")
+	)
 	(label "~{PSRAM_CS}"
 		(at 82.55 177.8 0)
 		(effects
@@ -8204,6 +8336,16 @@
 			(justify left bottom)
 		)
 		(uuid "8f57f311-166e-4aa8-bad7-1111860e93fe")
+	)
+	(label "~{RST}"
+		(at 215.9 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90c4199c-a358-466f-a560-4b2183792a0e")
 	)
 	(label "SPI0_SCK"
 		(at 163.83 111.76 180)
@@ -8295,6 +8437,16 @@
 		)
 		(uuid "c07835e2-9cc4-4984-88ae-aafb6530f77d")
 	)
+	(label "SPI0_CSn"
+		(at 274.32 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c26bcc23-d2fc-4a8f-9388-f84e9c201666")
+	)
 	(label "QSPI_CSN"
 		(at 101.6 107.95 0)
 		(effects
@@ -8324,6 +8476,16 @@
 			(justify right bottom)
 		)
 		(uuid "ddf61e2d-062a-4c3e-b002-bd2052f2f955")
+	)
+	(label "SPI0_TX"
+		(at 274.32 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "de744a84-86e3-4128-82cd-126d639fc4b9")
 	)
 	(label "RED_LED"
 		(at 49.53 106.68 0)
@@ -8415,6 +8577,16 @@
 		)
 		(uuid "f1a94128-b605-4834-bc34-d301d95c19fb")
 	)
+	(label "SPI0_SCK"
+		(at 274.32 157.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f66d1b33-b9eb-4727-afb8-1ddc16c3b64b")
+	)
 	(label "~{PSRAM_CS}"
 		(at 163.83 86.36 180)
 		(effects
@@ -8450,7 +8622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON127P600X500X80-9N-D"
+		(property "Footprint" "SamacSys_Parts:SON127P600X500X80-9N-D"
 			(at 71.12 223.19 0)
 			(effects
 				(font
@@ -11429,6 +11601,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 161.29 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "796fb2fd-303b-47ed-b16b-7a0296749a1e")
+		(property "Reference" "R16"
+			(at 156.718 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DNC"
+			(at 166.116 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 100.838 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 161.29 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b055d286-9434-4c56-b354-a5b5500fcf66")
+		)
+		(pin "1"
+			(uuid "3250d9f3-169a-47e2-90d7-a673b1ef0bb5")
+		)
+		(instances
+			(project ""
+				(path "/c5feb985-eaed-4048-a722-7becddf33f05"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 95.25 36.83 0)
 		(unit 1)
@@ -14078,23 +14317,22 @@
 		)
 	)
 	(sheet
-		(at 256.54 139.7)
-		(size 16.51 15.24)
+		(at 234.95 146.05)
+		(size 29.21 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 255 255 194 1.0000)
 		)
 		(uuid "04500a7e-46f6-485d-ad11-1e17f529b2b2")
-		(property "Sheetname" "Radio"
-			(at 256.54 138.9884 0)
+		(property "Sheetname" "Radio SX1278"
+			(at 243.586 145.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14103,12 +14341,82 @@
 			)
 		)
 		(property "Sheetfile" "radio.kicad_sch"
-			(at 256.54 155.5246 0)
+			(at 234.95 161.8746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "MISO" output
+			(at 264.16 152.4 0)
+			(uuid "1b996725-de05-4718-8e95-9d5a41b48c6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 264.16 154.94 0)
+			(uuid "c7c0358a-9d03-4e9f-96ce-1cb9f5db0745")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "NSS" input
+			(at 264.16 149.86 0)
+			(uuid "f725b863-53a7-4ddc-8710-6eef28596be8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCK" input
+			(at 264.16 157.48 0)
+			(uuid "5c1c17fd-e351-4e4a-8a56-2e677430c706")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RADIO_RX_INT" bidirectional
+			(at 234.95 151.13 180)
+			(uuid "70cca676-e903-4cce-8949-fc30d56770fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RADIO_RX_TIMEOUT" bidirectional
+			(at 234.95 153.67 180)
+			(uuid "4487848f-fd8c-472e-b8f6-ec9140c88f18")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RADIO_RST}" input
+			(at 234.95 156.21 180)
+			(uuid "944008d7-208c-4da3-951c-034aad1ecc2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
