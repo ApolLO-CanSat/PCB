@@ -13,15 +13,15 @@ The mainboard features:
 - Status **LED**
 - **Buzzer** for easier recovery
 \
-![Mainboard schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat.svg)
-![MCU schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat-RP2350A.svg)
-![LoRa schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat-Radio-SX1278.svg)
+![Mainboard schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSat.svg)
+![MCU schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSat-RP2350A.svg)
+![LoRa schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSat-Radio-SX1278.svg)
 \
-[Schematics in PDF file](https://github.com/WiktorKociuba/CanSatPCB/blob/main/schematics/CanSat.pdf)
+[Schematics in PDF file](https://github.com/ApolLO-CanSat/PCB/blob/main/schematics/CanSat.pdf)
 \
-![PCB Schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat.svg)
+![PCB Schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSatPCB.svg)
 \
-[PCB schematic in PDF file](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSatPCB.pdf)
+[PCB schematic in PDF file](https://github.com/ApolLO-CanSat/PCB/blob/main/schematics/CanSatPCB.pdf)
 ---
 ## BOM
 *TBD*
