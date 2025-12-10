@@ -15,9 +15,13 @@ The mainboard features:
 \
 ![Mainboard schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat.svg)
 ![MCU schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat-RP2350A.svg)
+![LoRa schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat-Radio-SX1278.svg)
 \
 [Schematics in PDF file](https://github.com/WiktorKociuba/CanSatPCB/blob/main/schematics/CanSat.pdf)
-
+\
+![PCB Schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat.svg)
+\
+[PCB schematic in PDF file](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSatPCB.pdf)
 ---
 ## BOM
 *TBD*

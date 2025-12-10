@@ -58,20 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "copper_edge_clearance|130262132|87517552|2c89b85b-ca1e-4300-bfa0-bf4dcffc51e1|1fd5b602-ceb3-4054-9e7f-c77ab8474da5",
-          ""
-        ],
-        [
-          "copper_edge_clearance|132022828|87538766|2c89b85b-ca1e-4300-bfa0-bf4dcffc51e1|dd71f1e6-245c-4692-9541-6ecdeb2430ea",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|142925000|113025420|e3b2d53c-58c5-47a6-a55d-0944ec0536aa|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -526,7 +513,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Desktop/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
