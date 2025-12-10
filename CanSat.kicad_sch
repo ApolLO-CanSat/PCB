@@ -7549,6 +7549,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 22.86) (xy 105.41 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5d1cefc-c1c6-4a41-bc61-069f6cd9f0ea")
+	)
+	(wire
+		(pts
 			(xy 165.1 99.06) (xy 186.69 99.06)
 		)
 		(stroke
@@ -13169,7 +13179,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 105.41 24.13 0)
+		(at 105.41 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13178,7 +13188,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9de1437-ccb4-45b3-b20e-244f337c7509")
 		(property "Reference" "#FLG04"
-			(at 105.41 22.225 0)
+			(at 105.41 20.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13187,7 +13197,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 105.41 19.05 0)
+			(at 105.41 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13195,7 +13205,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 24.13 0)
+			(at 105.41 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13204,7 +13214,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 24.13 0)
+			(at 105.41 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13213,7 +13223,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 105.41 24.13 0)
+			(at 105.41 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
