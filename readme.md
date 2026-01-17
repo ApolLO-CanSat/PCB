@@ -3,7 +3,7 @@ The mainboard features:
 - **RP2350A** MCU 
 - **W25Q64FVSSIG** flash memory
 - **Waveshare 23721** for GPS signal
-- **E220-900T22D** LoRa module
+- **SX1278** LoRa module
 - **MPU-6050** gyroscope and accelerometer
 - **BMP 280** barometer and thermometer
 - **Tower Pro Micro Servo 9g** for parachute cut-off
