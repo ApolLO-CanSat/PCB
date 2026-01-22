@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "8d2afd61-2389-4eb0-9a12-896e6af58844")
 	(paper "A4")
+	(title_block
+		(title "Radio")
+		(date "2026-01-17")
+		(rev "1.0.1")
+		(company "Team ApolLO")
+		(comment 1 "Author: Wiktor Kociuba")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -1044,7 +1051,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 100.33) (xy 101.6 100.33)
+			(xy 110.49 100.33) (xy 100.33 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1233,17 +1240,6 @@
 		)
 		(uuid "3dc46c4e-2b0c-47ea-bdc2-8608b0a69a83")
 	)
-	(hierarchical_label "SCK"
-		(shape input)
-		(at 101.6 92.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5765ca64-690b-44e6-8fb5-6c0b54c52a4c")
-	)
 	(hierarchical_label "~{RADIO_RST}"
 		(shape input)
 		(at 86.36 87.63 180)
@@ -1255,17 +1251,6 @@
 		)
 		(uuid "5beac066-23f7-42e2-889d-ce743263ea01")
 	)
-	(hierarchical_label "MISO"
-		(shape output)
-		(at 101.6 95.25 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5cfe9de3-3801-48f0-be78-abc93ad0a5e2")
-	)
 	(hierarchical_label "RADIO_RX_TIMEOUT"
 		(shape bidirectional)
 		(at 158.75 90.17 0)
@@ -1276,6 +1261,28 @@
 			(justify left)
 		)
 		(uuid "688af868-98e2-412b-bf42-4813ae14c4d5")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 101.6 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9df3aec1-9287-4ebf-8e97-8f4e851a9db9")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 100.33 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8e3928a-54cf-4c12-8438-32e54662fadf")
 	)
 	(hierarchical_label "RADIO_RX_INT"
 		(shape bidirectional)
@@ -1290,14 +1297,14 @@
 	)
 	(hierarchical_label "NSS"
 		(shape input)
-		(at 101.6 100.33 180)
+		(at 101.6 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "ca3071e4-6226-4af3-aae2-9781ca07ec9d")
+		(uuid "d616f9a7-a000-4d72-850e-d44f67beefc0")
 	)
 	(symbol
 		(lib_id "power:+3V3")
