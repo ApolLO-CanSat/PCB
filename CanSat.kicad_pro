@@ -518,7 +518,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Desktop/",
+      "plot": "schematics/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../Downloads/CanSat.stl",
