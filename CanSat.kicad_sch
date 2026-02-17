@@ -13408,7 +13408,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 63.8175 101.6 0)
 			(effects
 				(font
@@ -13744,7 +13744,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "796fb2fd-303b-47ed-b16b-7a0296749a1e")
 		(property "Reference" "R16"
 			(at 156.718 97.79 90)
@@ -16043,7 +16043,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Waveshare23721"
 			(at 194.31 120.65 0)
 			(effects
 				(font
