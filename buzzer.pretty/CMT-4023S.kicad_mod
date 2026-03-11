@@ -1,0 +1,151 @@
+(footprint "CMT-4023S"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CMT-4023S")
+	(tags "Loudspeaker or Buzzer")
+	(property "Reference" "LS**"
+		(at -0.33 -0.046 0)
+		(layer "F.SilkS")
+		(uuid "b3d80743-0540-465a-83a9-e7d450a60c83")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CMT-4023S"
+		(at -0.33 -0.046 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "05a7ed76-1e43-47c2-b203-5ae9da1b20bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68ac6f11-7044-424f-98df-054b986717d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54352c7b-5785-4fa6-bb2f-183023cd5d56")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2 -2)
+		(end 2 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f5bef4e-62fa-436b-a23c-f60b24c60b41")
+	)
+	(fp_line
+		(start 2 2)
+		(end -2 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79331a80-0187-4950-8be5-619d5c780010")
+	)
+	(fp_line
+		(start -2 -2)
+		(end 2 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "caff3c9b-9a42-43bc-a1d8-56f9c4f8e65b")
+	)
+	(fp_line
+		(start -2 2)
+		(end -2 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9a2b810f-a987-4127-8a1f-61f510db160a")
+	)
+	(fp_line
+		(start 2 -2)
+		(end 2 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62ffd6f4-311a-4e05-9508-18de1722175a")
+	)
+	(fp_line
+		(start 2 2)
+		(end -2 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c52e3241-ad95-4eb1-b05a-977c9e6291ae")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.33 -0.046 0)
+		(layer "F.Fab")
+		(uuid "2fbc0703-32f3-4608-977f-4e49c5d5d716")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2 0)
+		(size 2 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cedcb3ed-4e69-4ff3-8621-b3152a475dfe")
+	)
+	(pad "2" smd rect
+		(at 2 0)
+		(size 2 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cc75afad-64a7-4c04-8cc0-d6b2257d7155")
+	)
+	(embedded_fonts no)
+	(model "CMT-4023S-SMT-TR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

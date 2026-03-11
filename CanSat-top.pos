@@ -1,0 +1,54 @@
+### Footprint positions - created on 2026-03-09T13:07:21+0100 ###
+### Printed by KiCad version 9.0.3+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                    PosX       PosY       Rot  Side
+BZ1       Buzzer             MagneticBuzzer_Kingstate_KCG0601                       100.1500   -86.7500  180.0000  top
+C9        4.7uF              CP_EIA-2012-15_AVX-P                                   107.0500   -72.8375    0.0000  top
+C13       1uF                CP_EIA-2012-15_AVX-P                                   127.9000   -72.5375  -90.0000  top
+C15       100n               CP_EIA-2012-15_AVX-P                                   124.3500   -62.9500   90.0000  top
+C17       0.1uF              CP_EIA-2012-15_AVX-P                                    87.0000   -73.7875  -90.0000  top
+C18       2.2nF              CP_EIA-2012-15_AVX-P                                    77.9000   -74.0375  -90.0000  top
+C21       1uF                CP_EIA-2012-15_AVX-P                                    87.3500   -61.6875   45.0000  top
+C27       100nF              CP_EIA-2012-15_AVX-P                                    81.5000   -60.8000  -160.0000  top
+C28       100nF              CP_EIA-2012-15_AVX-P                                    80.7500   -58.9000  -160.0000  top
+C29       2.2uF              CP_EIA-2012-15_AVX-P                                    96.4000   -77.9275  -90.0000  top
+C30       100nF              CP_EIA-2012-15_AVX-P                                   103.3500   -77.8275  -90.0000  top
+C31       22u                CP_EIA-2012-15_AVX-P                                   113.1000   -50.4000   90.0000  top
+C32       100n               CP_EIA-2012-15_AVX-P                                   115.1500   -50.4000   90.0000  top
+D1        ESD7L5.0DT5G       MMBT2907AM3T5G                                          92.5500   -41.4875  135.0000  top
+D2        RED                LED_0402_1005Metric                                    118.8500   -84.3875  180.0000  top
+IC1       W25Q128JVPIQ       SON127P600X500X80-9N-D                                  91.0500   -76.7825   90.0000  top
+J1        USB_C_Receptacle   USB_C_Receptacle_Amphenol_12401610E4-2A                 87.1712   -47.0680  -135.0000  top
+J2        Conn_Coaxial       SMA_Amphenol_901-144_Vertical                           99.4500   -46.6600    0.0000  top
+J4        Conn_01x02_Pin     PinHeader_1x02_P1.00mm_Vertical                         98.1500   -68.5000  -90.0000  top
+J6        Conn_01x06_Pin     PinHeader_2x03_P1.00mm_Vertical                        121.4000   -81.2000    0.0000  top
+J7        Conn_01x03_Pin     PinHeader_1x03_P1.00mm_Vertical                         98.0500   -40.9000  -90.0000  top
+J8        Conn_01x02_Pin     PinHeader_1x02_P1.00mm_Vertical                         89.8786   -58.4170   40.0000  top
+J9        Conn_01x02_Pin     PinHeader_1x02_P1.00mm_Vertical                         93.1830   -62.5214  -130.0000  top
+J10       Conn_01x04_Pin     PinHeader_1x04_P1.00mm_Vertical                        118.6500   -42.6500  -90.0000  top
+L1        3.3u               L_6.3x6.3_H3                                           117.2000   -69.6875  180.0000  top
+R1        10K                R_0805_2012Metric                                      130.2500   -72.5375   90.0000  top
+R2        10K                R_0805_2012Metric                                      125.5000   -80.7875    0.0000  top
+R3        27                 R_0805_2012Metric                                      106.8500   -77.0375   90.0000  top
+R4        27                 R_0805_2012Metric                                      108.8500   -76.4375  -90.0000  top
+R7        27                 R_0805_2012Metric                                      102.7500   -83.0875  180.0000  top
+R8        27                 R_0805_2012Metric                                      102.7000   -80.9375  180.0000  top
+R10       5.1K               R_0805_2012Metric                                       83.6000   -56.1000  -135.0000  top
+R11       5.1K               R_0805_2012Metric                                       84.9500   -57.7500  -135.0000  top
+R12       10K                R_0805_2012Metric                                       94.4500   -82.6000  -60.0000  top
+R14       1K                 R_0805_2012Metric                                      127.8500   -60.9500  -90.0000  top
+R18       100                R_0805_2012Metric                                      110.8000   -53.2000    0.0000  top
+R20       33                 R_0805_2012Metric                                      111.4000   -68.9375   90.0000  top
+R21       10K                R_0805_2012Metric                                      118.0500   -54.9875  180.0000  top
+R22       10K                R_0805_2012Metric                                      118.0500   -57.6875  180.0000  top
+R23       10K                R_0805_2012Metric                                      110.8000   -64.4875   90.0000  top
+SW1       SW_Push            SW_Push_1P1T_NO_Vertical_Wuerth_434133025816           124.6500   -52.7375    0.0000  top
+SW2       SW_Push            SW_Push_1P1T_NO_Vertical_Wuerth_434133025816           123.0250   -57.4750    0.0000  top
+SW3       SW_Push            SW_Push_1P1T_NO_Vertical_Wuerth_434133025816            91.3500   -86.4000  -140.0000  top
+U3        Waveshare23721     PinHeader_1x05_P1.00mm_Vertical                         88.2000   -63.8875   45.0000  top
+U5        RP2350_60QFN       RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias   115.8000   -78.3875   90.0000  top
+U8        BMP280             Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering       82.4683   -63.1977  110.0000  top
+U9        APS6404L-3SQR-ZR   PSON50P200X300X50-9N                                    99.7500   -77.9075   90.0000  top
+Y2        ASE-12.000MHz-E-T  ASE12000MHzET                                          126.5500   -77.1125  180.0000  top
+## End
