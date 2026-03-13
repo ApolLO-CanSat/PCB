@@ -9,8 +9,8 @@
 	(paper "A5")
 	(title_block
 		(title "Main Board")
-		(date "2026-03-11")
-		(rev "v3.0.0")
+		(date "2026-03-13")
+		(rev "v3.1.0")
 		(company "Team ApolLO")
 		(comment 1 "Author: Wiktor Kociuba")
 	)
@@ -104,7 +104,7 @@
 			(pdf_front_fp_property_popups yes)
 			(pdf_back_fp_property_popups yes)
 			(pdf_metadata yes)
-			(pdf_single_document no)
+			(pdf_single_document yes)
 			(dxfpolygonmode yes)
 			(dxfimperialunits yes)
 			(dxfusepcbnewfont yes)
@@ -117,7 +117,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 5)
+			(outputformat 4)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -19431,7 +19431,7 @@
 		(property "Reference" "U1"
 			(at 0 3.374999 90)
 			(layer "B.SilkS")
-			(uuid "c072850c-4232-4b03-9316-d1d7f2351442")
+			(uuid "4b4811d8-b116-4fb3-b9e3-b544d1013f7c")
 			(effects
 				(font
 					(size 1 1)
@@ -19443,7 +19443,7 @@
 		(property "Value" "MPU-6050"
 			(at 0 -3.374999 90)
 			(layer "B.Fab")
-			(uuid "92b37708-a04b-4b29-926b-84cab8186169")
+			(uuid "18033bdd-4351-4910-9f26-d7ef1a24e177")
 			(effects
 				(font
 					(size 1 1)
@@ -19457,7 +19457,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d980844d-dc47-4224-9710-e130b8dbb75b")
+			(uuid "142740f0-1928-4ca2-b129-df0cb3c47842")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19471,7 +19471,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "bb7add9a-3a56-45a3-a81e-c324d923f36a")
+			(uuid "7a799763-3333-4887-ab65-259cb82f1ed4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25889,6 +25889,31 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "404 Not Found"
+		(at 118.25 81.25 90)
+		(layer "F.SilkS")
+		(uuid "71366cbd-972b-4f1c-8498-d8936021b849")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text ":3"
+		(at 86.4 47.25 45)
+		(layer "F.SilkS")
+		(uuid "9870db7c-773b-458d-b4fd-b473b5f66352")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "SPI"
 		(at 116.1 41.5 350)
 		(layer "F.SilkS")
@@ -25950,6 +25975,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "Romeo\nFoxtrot\nMike\nNiner\nEight\nWhisky\n"
+		(at 114.95 47.85 170)
+		(layer "B.SilkS")
+		(uuid "7796e22f-ef29-4a93-ba7b-d6a4c3d46b2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "PYRO"
 		(at 98.8 74.5 225)
 		(layer "B.SilkS")
@@ -25966,6 +26003,31 @@
 		(at 111.85 90.45 180)
 		(layer "B.SilkS")
 		(uuid "a0873b52-1da8-4249-909e-8021d4f8f27d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "I like to \nmove it \nmove it"
+		(at 82.4 69.9 270)
+		(layer "B.SilkS")
+		(uuid "a47b691b-e6bc-43ef-bb77-f471146220a3")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(gr_text "Lima\nOscar\nRomeo\nAlpha"
+		(at 109.2 48.7 170)
+		(layer "B.SilkS")
+		(uuid "c1dec4bf-7f2c-4afc-9857-52cd1b5eb606")
 		(effects
 			(font
 				(size 1 1)

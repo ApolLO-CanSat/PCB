@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Main Board")
-		(date "2026-03-11")
-		(rev "v3.0.0")
+		(date "2026-03-13")
+		(rev "v3.1.0")
 		(company "Team ApolLO")
 		(comment 1 "Author: Wiktor Kociuba")
 	)
