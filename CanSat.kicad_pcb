@@ -7595,7 +7595,7 @@
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
 		(uuid "72f0a23e-84c7-4d5e-8136-b7e769f6ddb4")
-		(at 102 88.2)
+		(at 102.3 88.15)
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
@@ -29024,6 +29024,14 @@
 		(uuid "0dee08d0-44e4-4265-806f-a48984e0d871")
 	)
 	(segment
+		(start 100 89.05)
+		(end 100 88.8)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "111161bc-ae3a-4bfe-bf3c-0a2332f96ddd")
+	)
+	(segment
 		(start 113.325 75.9125)
 		(end 113.1 76.1375)
 		(width 0.2)
@@ -29046,14 +29054,6 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "13d2195b-277b-467a-a7d1-4c6ce30ce1f8")
-	)
-	(segment
-		(start 99.75 88.8)
-		(end 100.35 88.2)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "141b4e4a-5d7a-44a7-8a67-a291fce1b31f")
 	)
 	(segment
 		(start 113.325 75.9125)
@@ -29198,6 +29198,14 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "2e37816e-30c7-466b-b27d-01e03a419f43")
+	)
+	(segment
+		(start 99.75 89.3)
+		(end 100 89.05)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "3164e086-146a-48bb-bc75-4ea8b97ce467")
 	)
 	(segment
 		(start 118.362644 75.824856)
@@ -29432,6 +29440,14 @@
 		(uuid "5c2983fc-5de1-4fe4-93c6-dabf7baf70cc")
 	)
 	(segment
+		(start 100 88.8)
+		(end 100.65 88.15)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "5dcd0b16-9b44-4ba4-8d2a-edd9161ac4e3")
+	)
+	(segment
 		(start 118.549 79.011436)
 		(end 118.549 79.363564)
 		(width 0.2)
@@ -29542,14 +29558,6 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "72de3826-b53e-45b9-a3b9-2c560b011f32")
-	)
-	(segment
-		(start 99.75 89.3)
-		(end 99.75 88.8)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "799f8b71-845d-4214-a794-981e544235b1")
 	)
 	(segment
 		(start 118.572936 77.3875)
@@ -40289,6 +40297,14 @@
 		(uuid "16e326d4-61f2-4772-8a2a-9d6894241d2f")
 	)
 	(segment
+		(start 104.6 87.5)
+		(end 103.95 88.15)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 108)
+		(uuid "23dfa917-ae5c-4d48-adf2-00776bb5f82c")
+	)
+	(segment
 		(start 104.6 87.25)
 		(end 99.5 87.25)
 		(width 0.2)
@@ -40297,12 +40313,12 @@
 		(uuid "88d60141-9a4d-4b41-a2b1-3455deddf53e")
 	)
 	(segment
-		(start 103.65 88.2)
-		(end 104.6 87.25)
+		(start 104.6 87.25)
+		(end 104.6 87.5)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 108)
-		(uuid "d7834e34-0c29-405d-9887-9ebf9969d8b3")
+		(uuid "91e85e3a-c775-478d-b35b-cca8c8b9b03c")
 	)
 	(segment
 		(start 105.8625 87.25)
