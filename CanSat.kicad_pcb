@@ -12655,7 +12655,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NMOS_GSD"
+		(property "Value" "BSS138"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "4d63d052-388a-4159-846d-5ca6de868780")
