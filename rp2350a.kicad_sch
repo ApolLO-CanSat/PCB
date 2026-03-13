@@ -7066,7 +7066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-15_AVX-P"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 129.2352 129.54 0)
 			(effects
 				(font
