@@ -11,6 +11,11 @@ The mainboard features:
 - Status **LED**
 - **Buzzer** for easier recovery
 \
+![PCB Assembled Front](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/photos/PCBAF.jpg)
+![PCB Assembled Back](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/photos/PCBAB.jpg)
+![PCB Front](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/photos/PCBF.jpeg)
+![PCB Back](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/photos/PCBB.jpeg)
+\
 ![Mainboard schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSat.svg)
 ![MCU schematic](https://raw.githubusercontent.com/ApolLO-CanSat/PCB/refs/heads/main/schematics/CanSat-RP2350A.svg)
 \

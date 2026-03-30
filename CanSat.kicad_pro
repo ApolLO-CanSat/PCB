@@ -513,7 +513,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "schematics/nj/",
+      "plot": "schematics/final/",
       "pos_files": "./",
       "specctra_dsn": "",
       "step": "../../../Downloads/CanSat.stl",
@@ -752,7 +752,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "schematics/",
+    "plot_directory": "schematics/final/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
